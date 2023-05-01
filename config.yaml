@@ -7,4 +7,4 @@
  uid_campaign: Slack User Profile ID Lookup
  promo_campaign: Next Best Action - SST
  promo_datafield: promotions
- uid_datafield: profileId
+ uid_datafield: attributes
